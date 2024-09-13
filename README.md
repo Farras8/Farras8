@@ -2,7 +2,7 @@
 
 My name is **Muhammad Farras Yasyfa**.<br>
 
-I am a Undergraduate student at **Jakarta State Polytechnic** majoring in **Informatics Engineering**.<br>
+I am an Undergraduate student at **Jakarta State Polytechnic** majoring in **Informatics Engineering**.<br>
 
 I am starting a new position as **Cloud Computing Cohort** at **Bangkit Academy led by Google, Tokopedia, Gojek & Traveloka**.<br>
 
