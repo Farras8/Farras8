@@ -18,8 +18,8 @@ const farras = {
     techStack: {
         frontend: ["TypeScript", "JavaScript", "HTML5", "CSS3"],
         backend: ["PHP", "Python", "Kotlin"],
-        cloud: ["AWS", "Google Cloud", "Azure"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB"]
+        cloud: ["Google Cloud"],
+        databases: ["MySQL", "PostgreSQL"]
     },
     hobbies: ["🎮 Gaming", "📚 Learning New Tech", "🌐 Open Source"]
 };
@@ -41,7 +41,6 @@ const farras = {
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
