@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm an **Undergraduate student** at **Jakarta State Polytechnic** majoring in **Informatics Engineering**, passionate about creating innovative web solutions and cloud-based applications. My journey in tech spans across frontend magic, backend wizardry, and cloud architecture.
+I'm an **Undergraduate student** at **Jakarta State Polytechnic** majoring in **Informatics Engineering**, passionate about Full-Stack Web Dev and Cloud Computing.
 
 ```javascript
 const farras = {
