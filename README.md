@@ -18,6 +18,7 @@ const farras = {
     techStack: {
         frontend: ["TypeScript", "JavaScript", "HTML5", "CSS3"],
         backend: ["PHP", "Python", "Kotlin"],
+        database: ["MySQL", "Firebase", "PostgreSQl"]
         cloud: ["Google Cloud"],
         databases: ["MySQL", "PostgreSQL"]
     },
