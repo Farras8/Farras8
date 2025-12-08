@@ -17,10 +17,9 @@ const farras = {
     currentFocus: ["Full Stack Development", "Cloud Computing", "System Design"],
     techStack: {
         frontend: ["TypeScript", "JavaScript", "HTML5", "CSS3"],
-        backend: ["PHP", "Python", "Kotlin"],
-        database: ["MySQL", "Firebase", "PostgreSQl"]
-        cloud: ["Google Cloud"],
-        databases: ["MySQL", "PostgreSQL"]
+        backend: ["PHP", "Python", "Kotlin", "Go"],
+        database: ["MySQL", "Firebase", "PostgreSQL"],
+        cloud: ["Google Cloud"]
     },
     hobbies: ["🎮 Gaming", "📚 Learning New Tech", "🌐 Open Source"]
 };
@@ -40,6 +39,7 @@ const farras = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
